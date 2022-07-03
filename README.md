@@ -1,6 +1,6 @@
-## Users Memo App
+# Users Memo App
 
-# Steps to run:
+## Steps to run:
 1. run <b>npm install</b> to install all dependencies.
 2. run <b>npm start</b> for both client and server side to start the development server.
 3. The App will load in a new browser window.
